@@ -10,7 +10,7 @@ Download from http://example.com/FIXME.
 
 FIXME: explanation
 
-    $ java -jar validate-cpf-0.1.0-standalone.jar [args]
+    $ lein run
 
 ## Options
 
